@@ -10,17 +10,34 @@
     <div class="container">
         <h1>Teamwork: Mathe-Begriff Raten</h1>
 
-        <div class="begriff-karte">
-            <h2 id="begriff">Begriff wird geladen...</h2>
-            <p id="erklaerung">Bitte warten.</p>
+        <!-- Bereich zur Auswahl der Begriff-Datei -->
+        <div id="auswahl-bereich">
+            <h2>Wähle eine Begriffsliste aus:</h2>
+            <div class="auswahl-controls">
+                 <label for="datei-auswahl">Liste:</label>
+                 <select id="datei-auswahl">
+                     <option value="">-- Bitte wählen --</option>
+                     <!-- Optionen werden per JavaScript hinzugefügt -->
+                 </select>
+                 <button id="start-btn">Liste laden & Spiel starten</button>
+            </div>
+             <p id="lade-fehler" class="fehler-meldung"></p> <!-- Für Fehlermeldungen -->
         </div>
 
-        <button id="neuer-begriff-btn">Neuen Begriff anzeigen</button>
+        <!-- Bereich für das eigentliche Spiel (anfangs versteckt) -->
+        <div id="spiel-bereich" style="display: none;">
+            <div class="begriff-karte">
+                <h2 id="begriff">Begriff wird geladen...</h2>
+                <p id="erklaerung">Bitte warten.</p>
+            </div>
+            <button id="neuer-begriff-btn">Neuen Begriff anzeigen</button>
+        </div>
 
+        <!-- Anleitung bleibt sichtbar -->
         <div class="anleitung">
             <h3>Spielanleitung "Teamwork"</h3>
-            <p>
-                Zwei Spieler bekommen diesen Begriff und die Erklärung gezeigt (die anderen Spieler schauen weg).
+             <p>
+                Zwei Spieler bekommen den oben angezeigten Begriff und die Erklärung (die anderen Spieler schauen weg).
                 Sie dürfen den <strong>Begriff selbst nicht nennen</strong>.
                 Abwechselnd sagen sie <strong>nur ein Wort</strong>, sodass die Wörter zusammen einen sinnvollen Satz ergeben, der den Begriff beschreibt.
                 Die anderen Spieler müssen den Begriff erraten.

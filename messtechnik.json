@@ -1,0 +1,38 @@
+[
+  {
+    "begriff": "Messfehler",
+    "erklaerung": "Die Abweichung zwischen dem gemessenen Wert und dem tatsächlichen, wahren Wert einer Größe. Kann systematisch (immer gleich) oder zufällig sein."
+  },
+  {
+    "begriff": "Multimeter",
+    "erklaerung": "Ein vielseitiges Messgerät, das verschiedene elektrische Größen messen kann, typischerweise Spannung (Volt), Stromstärke (Ampere) und Widerstand (Ohm)."
+  },
+  {
+    "begriff": "Stromzähler",
+    "erklaerung": "Ein Gerät, das die Menge der verbrauchten elektrischen Energie (Arbeit) über die Zeit misst, meist in Kilowattstunden (kWh)."
+  },
+  {
+    "begriff": "AD-Wandler",
+    "erklaerung": "Ein Bauteil (Analog-Digital-Wandler), das ein kontinuierliches analoges Signal (z.B. Spannung) in einen digitalen Zahlenwert umwandelt, damit Computer es verarbeiten können."
+  },
+  {
+    "begriff": "Drehspulmesswerk",
+    "erklaerung": "Ein analoges Anzeigegerät, bei dem eine Spule im Magnetfeld durch Stromfluss gedreht wird und einen Zeiger bewegt. Hauptsächlich für Gleichstrom/-spannung (DC)."
+  },
+  {
+    "begriff": "Dreheisenmesswerk",
+    "erklaerung": "Ein analoges Anzeigegerät, bei dem ein Magnetfeld einer Spule ein bewegliches Eisenstück anzieht oder abstößt und so einen Zeiger bewegt. Für Gleich- und Wechselstrom/-spannung (AC/DC)."
+  },
+  {
+    "begriff": "Kalibrierung",
+    "erklaerung": "Der Prozess, ein Messgerät mit einem bekannten Standard (Normal) zu vergleichen, um seine Genauigkeit zu überprüfen und es gegebenenfalls anzupassen."
+  },
+  {
+    "begriff": "analog",
+    "erklaerung": "Beschreibt eine Darstellung von Werten durch stufenlose, kontinuierliche physikalische Größen (z.B. Zeigerausschlag, Spannungshöhe)."
+  },
+  {
+    "begriff": "digital",
+    "erklaerung": "Beschreibt eine Darstellung von Werten durch diskrete, abgestufte Zahlenwerte (Ziffern), oft im Binärsystem (0en und 1en)."
+  }
+]

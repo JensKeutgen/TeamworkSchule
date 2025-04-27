@@ -1,0 +1,74 @@
+[
+  {
+    "begriff": "Hochpunkt",
+    "erklaerung": "Der 'höchste Gipfel' in einem bestimmten Bereich eines Funktionsgraphen. Die Steigung ist dort null und die Kurve geht von steigend zu fallend über."
+  },
+  {
+    "begriff": "Tiefpunkt",
+    "erklaerung": "Das 'tiefste Tal' in einem bestimmten Bereich eines Funktionsgraphen. Die Steigung ist dort null und die Kurve geht von fallend zu steigend über."
+  },
+  {
+    "begriff": "Wendepunkt",
+    "erklaerung": "Ein Punkt auf dem Graphen, an dem sich die 'Biegungsrichtung' (Krümmung) ändert, z.B. von einer Linkskurve zu einer Rechtskurve."
+  },
+  {
+    "begriff": "y-Achsenabschnitt",
+    "erklaerung": "Der Punkt, an dem der Graph die senkrechte y-Achse schneidet. Man findet ihn, indem man x=0 in die Funktion einsetzt."
+  },
+  {
+    "begriff": "Nullstelle",
+    "erklaerung": "Ein x-Wert, an dem der Funktionsgraph die waagerechte x-Achse schneidet oder berührt. Der y-Wert ist hier immer null (f(x)=0)."
+  },
+  {
+    "begriff": "Steckbriefaufgabe",
+    "erklaerung": "Eine Aufgabe, bei der man die Gleichung einer Funktion finden muss, wobei bestimmte Eigenschaften (Punkte, Steigungen, etc.) wie in einem 'Fahndungsplakat' gegeben sind."
+  },
+  {
+    "begriff": "Winkel zwischen Vektoren",
+    "erklaerung": "Der Winkel, der von zwei Pfeilen (Vektoren) eingeschlossen wird, wenn sie am selben Punkt starten. Man berechnet ihn oft mit dem Skalarprodukt."
+  },
+  {
+    "begriff": "Vektor",
+    "erklaerung": "Ein mathematisches Objekt, das eine Richtung und eine Länge (Betrag) im Raum oder in der Ebene beschreibt, oft als Pfeil dargestellt oder mit Koordinaten."
+  },
+  {
+    "begriff": "Länge eines Vektors",
+    "erklaerung": "Der Betrag oder die 'Größe' eines Vektors, also wie lang der Pfeil ist. Berechnet mit einer Art 'Pythagoras' für mehrere Dimensionen."
+  },
+  {
+    "begriff": "Skalarprodukt",
+    "erklaerung": "Eine Rechenart für zwei Vektoren, deren Ergebnis eine einzelne Zahl (Skalar) ist. Wichtig zur Berechnung von Winkeln oder zum Prüfen auf Rechtwinkligkeit."
+  },
+  {
+    "begriff": "Lagebeziehung",
+    "erklaerung": "Beschreibt, wie zwei geometrische Objekte (z.B. Geraden, Ebenen) zueinander liegen: schneidend, parallel, identisch oder (bei Geraden im Raum) windschief."
+  },
+  {
+    "begriff": "Geradengleichung",
+    "erklaerung": "Eine mathematische Formel, die alle Punkte beschreibt, die auf einer bestimmten Geraden liegen (z.B. y = mx + b oder in Vektorform)."
+  },
+  {
+    "begriff": "Baumdiagramm",
+    "erklaerung": "Eine grafische Darstellung in der Wahrscheinlichkeitsrechnung, die mögliche Abläufe eines Zufallsexperiments mit Verzweigungen ('Ästen') zeigt, an denen Wahrscheinlichkeiten stehen."
+  },
+  {
+    "begriff": "Vierfeldertafel",
+    "erklaerung": "Eine Tabelle mit vier Hauptfeldern (plus Randsummen) zur Darstellung von Häufigkeiten oder Wahrscheinlichkeiten bei zwei Merkmalen mit je zwei Ausprägungen."
+  },
+  {
+    "begriff": "Satz von Bayes",
+    "erklaerung": "Eine Formel in der Wahrscheinlichkeitsrechnung, um 'bedingte Wahrscheinlichkeiten' zu berechnen – wie sich die Wahrscheinlichkeit einer Sache ändert, wenn man etwas anderes weiß."
+  },
+  {
+    "begriff": "Binomialkoeffizient",
+    "erklaerung": "Symbol 'n über k'. Gibt an, auf wie viele Arten man k Objekte aus einer Menge von n Objekten auswählen kann, ohne Beachtung der Reihenfolge. (z.B. Lottozahlen)."
+  },
+  {
+    "begriff": "Binomialdichte",
+    "erklaerung": "Die Wahrscheinlichkeit, bei n unabhängigen Versuchen mit jeweils gleicher Erfolgswahrscheinlichkeit p genau k Erfolge zu erzielen. Formel: P(X=k) = B(n;p;k)."
+  },
+  {
+    "begriff": "kummulierte Binomialdichte",
+    "erklaerung": "Die Wahrscheinlichkeit, bei n unabhängigen Versuchen mit Erfolgswahrscheinlichkeit p HÖCHSTENS k Erfolge zu erzielen. Summe der Binomialdichten von 0 bis k."
+  }
+]
