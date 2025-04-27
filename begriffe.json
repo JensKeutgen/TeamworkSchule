@@ -1,0 +1,26 @@
+[
+  {
+    "begriff": "Extremstellen",
+    "erklaerung": "Stellen (x-Werte) eines Graphen, an denen die Steigung null ist und sich das Monotonieverhalten ändert. Oberbegriff für Hoch- und Tiefpunkte."
+  },
+  {
+    "begriff": "Hochpunkt",
+    "erklaerung": "Ein Punkt auf einem Graphen, der höher ist als alle Punkte in seiner unmittelbaren Umgebung. Die Steigung ist hier null, und die zweite Ableitung ist negativ (oder Vorzeichenwechsel von + nach - bei der ersten Ableitung)."
+  },
+  {
+    "begriff": "Tiefpunkt",
+    "erklaerung": "Ein Punkt auf einem Graphen, der tiefer ist als alle Punkte in seiner unmittelbaren Umgebung. Die Steigung ist hier null, und die zweite Ableitung ist positiv (oder Vorzeichenwechsel von - nach + bei der ersten Ableitung)."
+  },
+  {
+    "begriff": "Wendepunkt",
+    "erklaerung": "Ein Punkt auf einem Graphen, an dem sich das Krümmungsverhalten ändert (von links- zu rechtsgekrümmt oder umgekehrt). Die zweite Ableitung ist hier oft null, und die dritte Ableitung ungleich null (oder Vorzeichenwechsel bei der zweiten Ableitung)."
+  },
+  {
+    "begriff": "y-Achsenabschnitt",
+    "erklaerung": "Der Punkt (oder y-Wert), an dem der Graph einer Funktion die y-Achse schneidet. Man findet ihn, indem man x=0 in die Funktionsgleichung einsetzt."
+  },
+  {
+    "begriff": "Skalarprodukt",
+    "erklaerung": "Eine mathematische Operation für zwei Vektoren, deren Ergebnis eine Zahl (Skalar) ist. Es wird berechnet, indem man die entsprechenden Komponenten der Vektoren multipliziert und die Produkte addiert. Kann verwendet werden, um den Winkel zwischen Vektoren zu bestimmen oder zu prüfen, ob sie senkrecht aufeinander stehen."
+  }
+]
