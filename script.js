@@ -3,9 +3,9 @@
 // 'name' ist der Text, der im Dropdown angezeigt wird.
 // 'datei' ist der tatsächliche Dateiname.
 const verfuegbareListen = [
-    { name: "Analysis Grundlagen", datei: "begriffe.json" },
-    { name: "Algebra Grundlagen", datei: "algebra_begriffe.json" },
-    // Füge hier weitere Listen hinzu, z.B.:
+    { name: "Mathe Prüfungsvorbereitung", datei: "mathe_pruefung.json" }, // NEU
+    { name: "Messtechnik Grundlagen", datei: "messtechnik.json" }, // NEU
+    //     // Füge hier weitere Listen hinzu, z.B.:
     // { name: "Lineare Algebra", datei: "lineare_algebra.json" },
 ];
 
